@@ -114,17 +114,6 @@ Features:
 
 ---
 
-## 📈 Key Business Insights
-
-- Customers with Month-to-Month contracts have the highest churn.
-- Fiber Optic customers show significantly higher churn rates.
-- Electronic Check users are more likely to churn.
-- Customers with tenure below one year are the most vulnerable.
-- Longer contract durations improve customer retention.
-- Customer churn leads to substantial monthly revenue loss.
-
----
-
 ## 📊 Dashboard Preview
 
 ### Customer Churn Dashboard
@@ -136,6 +125,18 @@ Features:
 ![Advanced Churn Analysis](advanced_churn_analysis_dashboard.png)
 
 ---
+
+## 📈 Key Business Insights
+
+- Customers with Month-to-Month contracts have the highest churn.
+- Fiber Optic customers show significantly higher churn rates.
+- Electronic Check users are more likely to churn.
+- Customers with tenure below one year are the most vulnerable.
+- Longer contract durations improve customer retention.
+- Customer churn leads to substantial monthly revenue loss.
+
+---
+
 
 ## 📁 Repository Structure
 
